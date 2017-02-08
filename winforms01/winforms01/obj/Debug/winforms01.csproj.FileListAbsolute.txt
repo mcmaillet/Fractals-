@@ -1,0 +1,18 @@
+c:\users\740657\documents\visual studio 2015\Projects\winforms01\winforms01\bin\Debug\winforms01.exe.config
+c:\users\740657\documents\visual studio 2015\Projects\winforms01\winforms01\bin\Debug\winforms01.exe
+c:\users\740657\documents\visual studio 2015\Projects\winforms01\winforms01\bin\Debug\winforms01.pdb
+c:\users\740657\documents\visual studio 2015\Projects\winforms01\winforms01\obj\Debug\winforms01.csprojResolveAssemblyReference.cache
+c:\users\740657\documents\visual studio 2015\Projects\winforms01\winforms01\obj\Debug\winforms01.Form1.resources
+c:\users\740657\documents\visual studio 2015\Projects\winforms01\winforms01\obj\Debug\winforms01.Properties.Resources.resources
+c:\users\740657\documents\visual studio 2015\Projects\winforms01\winforms01\obj\Debug\winforms01.csproj.GenerateResource.Cache
+c:\users\740657\documents\visual studio 2015\Projects\winforms01\winforms01\obj\Debug\winforms01.exe
+c:\users\740657\documents\visual studio 2015\Projects\winforms01\winforms01\obj\Debug\winforms01.pdb
+C:\Users\740657\Documents\Visual Studio 2015\Projects\winforms01 - Copy\winforms01\bin\Debug\winforms01.exe.config
+C:\Users\740657\Documents\Visual Studio 2015\Projects\winforms01 - Copy\winforms01\obj\Debug\winforms01.exe
+C:\Users\740657\Documents\Visual Studio 2015\Projects\winforms01 - Copy\winforms01\obj\Debug\winforms01.pdb
+C:\Users\740657\Documents\Visual Studio 2015\Projects\winforms01 - Copy\winforms01\bin\Debug\winforms01.exe
+C:\Users\740657\Documents\Visual Studio 2015\Projects\winforms01 - Copy\winforms01\bin\Debug\winforms01.pdb
+C:\Users\740657\Documents\Visual Studio 2015\Projects\winforms01 - Copy\winforms01\obj\Debug\winforms01.csprojResolveAssemblyReference.cache
+C:\Users\740657\Documents\Visual Studio 2015\Projects\winforms01 - Copy\winforms01\obj\Debug\winforms01.Form1.resources
+C:\Users\740657\Documents\Visual Studio 2015\Projects\winforms01 - Copy\winforms01\obj\Debug\winforms01.Properties.Resources.resources
+C:\Users\740657\Documents\Visual Studio 2015\Projects\winforms01 - Copy\winforms01\obj\Debug\winforms01.csproj.GenerateResource.Cache
